@@ -1,0 +1,2 @@
+# diagnosticoNarvaez
+Examen Diagnostico
